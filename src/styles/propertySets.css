@@ -47,7 +47,7 @@
     /* No margins for default font */
 
     @media (--viewportMedium) {
-      font-size: 16px;
+      font-size: 18px;
       line-height: 32px;
     }
   }
