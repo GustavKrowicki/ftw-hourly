@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import PropTypes from 'prop-types';
 
 const IconLogo = props => {
@@ -71,3 +71,4 @@ IconLogo.propTypes = {
 };
 
 export default IconLogo;
+*/

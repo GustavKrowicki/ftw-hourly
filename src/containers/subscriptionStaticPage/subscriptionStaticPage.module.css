@@ -1,0 +1,13 @@
+@import '../../styles/customMediaQueries.css';
+
+.root {
+  padding: 24px;
+
+  /* Use CSS variable defined in src/styles/marketplaceDefaults.css */
+  background-color: var(--marketplaceColor);
+
+
+
+
+}
+

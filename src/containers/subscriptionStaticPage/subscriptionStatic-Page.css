@@ -1,0 +1,17 @@
+.Card{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+  
+  }
+  .upper-container{
+    height: 100px;
+    background-color: white;
+    color: brown;
+  }
+  
+  
+  .lower-container{
+    color: black;
+  }

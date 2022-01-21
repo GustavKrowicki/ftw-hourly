@@ -1118,5 +1118,12 @@
   "UserNav.newListing": "Create teacher profile",
   "UserNav.editListing": "Edit teacher profile",
   "UserNav.profileSettingsPage": "Edit user profile",
-  "UserNav.contactDetailsPage": "Account settings"
+  "UserNav.contactDetailsPage": "Account settings",
+
+  "EditListingWizard.tabLabelCapacity": "Capacity",
+"EditListingCapacityPanel.title": "Edit the capacity",
+
+"EditListingCapacityForm.capacityRequired": "capacity required",
+"EditListingCapacityForm.capacityPlaceholder": "choose yoyr capacity",
+"EditListingWizard.saveNewCapacity": "save new capacity"
 }

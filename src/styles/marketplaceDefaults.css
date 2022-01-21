@@ -17,8 +17,8 @@
 :root {
   /* ================ Colors ================ */
 
-  --marketplaceColor: #b39800;
-  --marketplaceColorLight: #ffc400;
+  --marketplaceColor: #294629;
+  --marketplaceColorLight: #c09f34;
   --marketplaceColorDark: #9ba700;
 
   /* Used with inline CSS SVGs */
@@ -44,7 +44,7 @@
   --matterColorLightTransparent: rgba(255, 255, 255, 0.65);
 
   /* ================ Font ================ */
-  --fontFamily: 'poppins', Helvetica, Arial, sans-serif;
+  --fontFamily: 'gopher', Helvetica, Arial, sans-serif;
 
   --fontWeightRegular: 400;
   --fontWeightMedium: 500;
